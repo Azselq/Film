@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/baseFragment"
-        android:name="com.example.filmprac.View.BaseFragment"
+        android:name="com.example.filmprac.view.BaseFragment"
         android:label="fragment_base"
         tools:layout="@layout/fragment_base" />
 </navigation>
